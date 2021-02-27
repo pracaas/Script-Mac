@@ -2,11 +2,11 @@
 # Initialize file name
 timestamp=`date +%s`
 dates=`date ''+%Y-%m-%d''`
-filename="HomeExpenseProject-${dates}_${timestamp}.xlsx"
+filename="Home-Expense-${dates}_${timestamp}.xlsx"
 
 # Initialize path for the source and destination files
-dest_path="/Users/prakashpoudel/Repository/Data-Backup/PROD/Datafile/"
-currnt_file="/Users/prakashpoudel/Repository/PROD/Home-expense/DataFile/HomeExpenseProject.xlsx"
+dest_path="/Users/prakashpoudel/OneDrive/My-Personal-Files/Home-Projects/Home-Documents/Backup/"
+currnt_file="/Users/prakashpoudel/OneDrive/My-Personal-Files/Home-Projects/Home-Documents/Home-Expense.xlsx"
 
 prev_file=`ls -Art ${dest_path}*.xlsx | tail -n 1`
 
