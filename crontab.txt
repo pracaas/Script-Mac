@@ -1,0 +1,2 @@
+*/5 * * * * /Users/prakashpoudel/Repository/Script-Mac/copier.sh >> /Users/prakashpoudel/Repository/Data-Backup/PROD/Datafile/copier.log
+*/5 * * * * /Users/prakashpoudel/Repository/Script-Mac/copier2.sh >> /Users/prakashpoudel/OneDrive/My-Personal-Files/Home-Projects/Home-Documents/Backup/copier2.log
